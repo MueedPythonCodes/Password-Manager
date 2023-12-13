@@ -1,8 +1,0 @@
-['bayanulquran', 'muhammad', 'ee222']
-['instagram', 'shaheer', 'ii44']
-['facebook', 'abdullah', 'cc234']
-['insta', 'mushab', 'dd101']
-['google', 'usman', 'ff95']
-['linkedin', 'alam', 'bj']
-['insta', 'bilal', 'fffy82']
-['twitter', 'junaid', 'avqp49']
